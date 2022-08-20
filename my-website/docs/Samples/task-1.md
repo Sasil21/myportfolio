@@ -5,11 +5,11 @@ sidebar_position: 1
 
 ## Introduction
 
-This documentation provides the instructions on how to log in to your Gmail account and Compose an email.
+This documentation provides the instructions on how to log in to your **Gmail** account and **Compose** an email.
 
 ### Prerequisites
 
-- Make sure you have already created a Gmail account.
+- Make sure you have already created a **Gmail** account.
 
 :::tip
 This document only covers the account login and composing a mail.
@@ -17,7 +17,7 @@ This document only covers the account login and composing a mail.
 
 ### Login to Gmail account
 
-Do the step-by-step process to login to your Gmail account.
+Do the step-by-step process to login to your **Gmail** account.
 
 1. Open the internet browser installed in your system
 
@@ -27,25 +27,25 @@ Google chrome is the recommended browser for the Gmail.
 
 2. In the URL bar, type the URL https://www.google.com/gmail/. You will be directed to the Gmail home page.
 
-3. Enter your email address or registered phone number in the Email or Phone field.
+3. Enter your email address or registered phone number in the **Email** or **Phone** field.
 
-4. Click Next.
+4. Click **Next**.
 
-5. Type in your password in the Enter your password field.
+5. Type in your password in the **Enter your password** field.
 
-6. Click Next.
+6. Click **Next**.
 
 7. You are now logged into your account successfully.
 
 ### How to Compose and Send an Email in Gmail
 
-1. Click on the Compose button on left side panel.
+1. Click on the **Compose** button on left side panel.
 
-2. Type the recipient mail id in the Recipient field.
+2. Type the recipient mail id in the **Recipient** field.
 
-3. In the Subject field, type the subject of the mail.
+3. In the **Subject** field, type the subject of the mail.
 
-4. Add CC or Bcc recipients if you wish to send mail copies to anyone.
+4. Add **CC** or **Bcc** recipients if you wish to send mail copies to anyone.
 
 5. In the body of the email, write the message you wish to convey to the recipient.
 
