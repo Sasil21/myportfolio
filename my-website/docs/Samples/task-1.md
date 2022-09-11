@@ -19,13 +19,17 @@ This document only covers the account login and composing a mail.
 
 Do the step-by-step process to login to your **Gmail** account.
 
-1. Open the internet browser installed in your system
+ 1. Open the internet browser installed in your system
 
-::tip
-Google chrome is the recommended browser for the Gmail.
-:::
+ ::tip
+ Google chrome is the recommended browser for the Gmail.
+ :::
 
-2. In the URL bar, type the URL https://www.google.com/gmail/. You will be directed to the Gmail home page.
+ 2. In the URL bar, type the URL https://www.google.com/gmail/. You will be directed to the Gmail home page.
+
+ <p align="center">
+  <img alt='gmail' src='/img/gmail/gm-001' />
+ </p>
 
 3. Enter your email address or registered phone number in the **Email** or **Phone** field.
 
